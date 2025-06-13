@@ -1,6 +1,6 @@
 # Open-Source Satellite Orbit Visualizations using CZML Generator and Cesium
 
-<img src="https://github.com/lis-aw/CZML-Generator/blob/main/ScreenshotCesium.png" alt="CesiumSandbox Satellite Orbit Visualization" width="70%">
+<img src="https://github.com/lis-aw/CZML-Generator/blob/main/ScreenshotCesium.png" alt="CesiumSandbox Satellite Orbit Visualization">
 
 ## ✅ What it is:
 I created this project when I was looking for an open-source alternative to MatLab and it's SatCom Toolbox for visualizing orbits.
